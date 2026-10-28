@@ -4,7 +4,7 @@ A small learning demo for running **one Supabase project per customer**: a SQL t
 
 > **A personal learning project.** Not an official tool of any company. All customer names are fictional. The page never connects to any project: you run the fingerprint SQL yourself and paste the result into the registry.
 
-This is the code for the Dev.to article (template, fingerprint, hand-over, costs, and the console): TODO-DEVTO-URL
+This is the code for the Dev.to article (template, fingerprint, hand-over, costs, and the console): https://dev.to/tomozilla/one-supabase-project-per-customer-apply-a-template-catch-hand-made-changes-with-a-schema-301h
 
 ## Files
 
